@@ -1,2 +1,3 @@
-# jogo-dados
- Criando um jogo de dados em Python.
+# Jogo de dados
+
+Jogo de dados d6 com dois dados.
